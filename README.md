@@ -1,5 +1,5 @@
 ### Date created
-26.11.2020
+26.11.2020 21:30 CET
 
 ### Project Title
 Udacity git Project
@@ -14,3 +14,6 @@ bikeshare_readme.py
 
 ### Credits
 https://github.com/udacity/pdsnd_github
+
+### Copyright
+Nanodegree 18
